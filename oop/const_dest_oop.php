@@ -53,7 +53,7 @@ class Mobile{
 
 }
 
-// class to object
+// class to object convert new
 $mobile = new Mobile('Samsung','J2 Prime');
 
 

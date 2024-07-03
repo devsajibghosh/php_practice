@@ -27,7 +27,7 @@ Class House{
 
 }
 
-$house = new House();  /*  Class to Object -- here is a class of house and create a object $house to be a object */
+$house = new House();  /*  Class to Object -- here is a class of house and create a object $house to be a object convert a new function*/
 
 // assing the value of object => "";
 $house->name = "Sajib Ghosh <br>";
@@ -37,14 +37,6 @@ $house->floor = "I love 2nd floor <br>";
 echo $house->get_name();
 echo $house->get_room();
 echo $house->get_floor();
-
-
-
-
-
-
-
-
 
 
 ?>
